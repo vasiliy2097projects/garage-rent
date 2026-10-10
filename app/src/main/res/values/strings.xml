@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Гараж на час</string>
+    <string name="tab_search">Поиск</string>
+    <string name="tab_bookings">Брони</string>
+    <string name="tab_profile">Профиль</string>
+    <string name="filters">Фильтры</string>
+    <string name="loading">Смотрим гаражи</string>
+    <string name="empty_search">Нет гаражей по этим условиям</string>
+    <string name="price_rub">%1$d\u00A0₽</string>
+    <string name="amenity_pit">Яма</string>
+    <string name="amenity_lift">Подъемник</string>
+    <string name="amenity_heating">Отопление</string>
+    <string name="amenity_power">380V</string>
+    <string name="amenity_compressor">Компрессор</string>
+</resources>
